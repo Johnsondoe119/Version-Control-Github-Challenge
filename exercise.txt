@@ -1,0 +1,4 @@
+1. The terminal is a way to interact with a computer using text based commands. It provides a direct way to comunicate with the computers operating systems and preform task like creating, editing and moving between files.
+2.Github is a cloud based hosting service that alows you to manage Git repositories. Git is a version control system that lets you manage and keep track of your source code history
+3.Github is a code hosting platform. it allows all to work on a project together from anywhere
+
